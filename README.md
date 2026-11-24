@@ -1,16 +1,31 @@
-## Hi there 👋
+💫 About Me:
+Привет, я Jonpo’lat Ravshanov ! 👋
 
-<!--
-**Jonpolattt/Jonpolattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend-разработчик из Узбекистана
 
-Here are some ideas to get you started:
+JavaScript | TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React | Redux | Next.js
+
+Tailwind CSS | Bootstrap | MUI
+
+Git | GitHub | Docker
+
+💼 Работаю над реальными проектами в сфере веб-разработки.
+
+🌐 Socials:
+Instagram TikTok
+
+💻 Tech Stack:
+C++ JavaScript CSS3 HTML5 GraphQL Python PHP TypeScript React Redux Docker AssemblyScript TailwindCSS
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
